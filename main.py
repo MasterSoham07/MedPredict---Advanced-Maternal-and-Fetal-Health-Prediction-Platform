@@ -204,7 +204,7 @@ elif (selected == 'About us'):
                 "body sugar levels, blood pressure, and more. By processing this information, we provide accurate predictions of "
                 "potential risks during pregnancy.")
         # Add an image for Pregnancy Risk Prediction
-        st.image("pregnancy_risk_image.jpg", caption="Pregnancy Risk Prediction", use_column_width=True)
+        st.image("graphics/pregnancy_risk_image.jpg", caption="Pregnancy Risk Prediction", use_column_width=True)
     with col2:
         # Section 2: Fetal Health Prediction
         st.header("2. Fetal Health Prediction")
@@ -212,7 +212,7 @@ elif (selected == 'About us'):
                 "health status of the fetus. Through a comprehensive analysis of factors such as ultrasound data, maternal health, "
                 "and genetic factors, we deliver insights into the well-being of the unborn child.")
         # Add an image for Fetal Health Prediction
-        st.image("fetal_health_image.jpg", caption="Fetal Health Prediction", use_column_width=True)
+        st.image("graphics/fetal_health_image.jpg", caption="Fetal Health Prediction", use_column_width=True)
 
     # Section 3: Dashboard
     st.header("3. Dashboard")
