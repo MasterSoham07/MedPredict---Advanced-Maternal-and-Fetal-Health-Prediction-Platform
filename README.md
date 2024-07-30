@@ -84,7 +84,6 @@ Follow these steps to run the Streamlit code locally:
 
 ```bash
 git clone https://github.com/your-username/MedPredict---Advanced-Maternal-and-Fetal-Health-Prediction-Platform.git
-cd medpredict
 ```
 ### Install Dependencies
  ```bash
